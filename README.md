@@ -97,5 +97,45 @@ PORT=5000
 JWT_SECRET=your_secret
 STRIPE_SECRET_KEY=your_key
 CLIENT_URL=http://localhost:3000
-``
 ```
+
+---
+
+### 4️⃣ Run the project
+
+#### Start backend:
+
+```
+cd backend
+npm start
+```
+
+#### Start frontend:
+
+```
+npm start
+```
+
+---
+
+## 🎯 Future Improvements
+
+* 🔍 Search & filtering for restaurants
+* 📱 Better mobile responsiveness
+* 📍 Live order tracking
+* ⭐ Ratings & reviews system
+
+---
+
+## 👨‍💻 Author
+
+**Kshitij Tomar**
+GitHub: https://github.com/Kshitij027
+
+---
+
+## ⭐ Support
+
+If you found this project useful, consider giving it a ⭐ on GitHub!
+
+---
